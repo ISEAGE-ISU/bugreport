@@ -14,7 +14,7 @@
 
 
 
-### Does this issue reproduce with the latest software release/service provided?
+### Is this issue reproduced with the latest software release/service provided?
 
 
 
@@ -35,10 +35,10 @@ A complete runnable program/script is good.
 
 
 
-### What steps to work around or solve this issue have you already attempted?
+### What steps have you already attempting to work around or solve this issue?
 
 
 
-### If you are operating from an ISEAGE Vcenter VM, what's the name of the VM?
+### If you are operating from an ISEAGE vCenter VM, what's the name of the VM?
 
 
