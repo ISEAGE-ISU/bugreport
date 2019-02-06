@@ -10,10 +10,6 @@
 
 
 
-### What processor architecture are you using?
-
-
-
 ### What software or configuration provided by ISEAGE does this concern?
 
 
